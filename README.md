@@ -24,4 +24,4 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer la blockchain dans vot
 
 ### ⚡ Fun fact: je possède un des premier carbon crédit vendu sous forme de NFT !
 
-![Photo banner] (http://github.com/WitaminF/WitaminF/blob/master/IMG/bannerprofile.jpg?raw=true)
+![Photo banner](http://github.com/WitaminF/WitaminF/blob/master/IMG/bannerprofile.jpg?raw=true)
