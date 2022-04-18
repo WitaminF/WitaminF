@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**WitaminF/WitaminF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Florent ! Je suis un developper full stack junior de 29 ans, actuellement en formation dans une école Suisse. <br>
+Je suis passioné par le WEB 3.0 et je souhaite intégrer la blockchain dans votre vie.
 
-Here are some ideas to get you started:
+### 🔭 Ce que je fait actuellement :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Apprendre solidity pour développer des smartcontrats
+- Travailler avec la technologie blockchain (noeuds, développement etc..)
+- Stagiaire en développement de logiciel à Lausanne.
+- Créer plus de dépôts git
+
+### 🌱 Ce que je souhaite faire :
+
+- Apprendre plus de language
+- Apprendre Javascript et les frameworks
+- Coder de manière plus optimisée
+- Acheter une lambo
+
+### 🏗️ Language & Tools
+
+- mySQL, php, laravel, html/css, bootstrap
+- Git, phpstorm, geth
+
+### ⚡ Fun fact: je possède un des premier carbon crédit vendu sous forme de NFT !
+
+
