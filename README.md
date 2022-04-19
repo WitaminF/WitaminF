@@ -8,7 +8,7 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer la blockchain dans vot
 - Apprendre solidity pour développer des smartcontrats
 - Travailler avec la technologie blockchain (noeuds, développement etc..)
 - Stagiaire en développement de logiciels à Lausanne chez Protocol SA
-- Créer plus de dépôts git
+- Ajouter les différents projets fait à l'école sur Git
 
 ### 🌱 Ce que je souhaite faire :
 
