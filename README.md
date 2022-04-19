@@ -21,7 +21,7 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer la blockchain dans vot
 
 - mySQL, PHP, html/css, C, C#
 - Bootstrap, laravel
-- Git, phpstorm, geth
+- Git, phpstorm, VSC, geth
 - Adobe & Microsoft Office
 
 ### ⚡ Fun fact: je possède un des premier crédit carbone vendu sous forme de NFT !
