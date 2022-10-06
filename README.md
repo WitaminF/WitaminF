@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Je suis Florent ! Je suis un developper full stack junior de 29 ans, actuellement en formation dans une école Suisse. <br>
-Je suis passioné par le WEB 3.0 et je souhaite intégrer la blockchain dans votre vie !
+Je suis Florent ! Je suis un developper full stack junior de 30 ans, actuellement en formation dans une école Suisse. <br>
+Je suis passioné par le WEB 3.0 et je souhaite intégrer le monde de la blockchain !
 
 ### 🔭 Ce que je fait actuellement :
 
 - Apprendre Javascript et les frameworks
-- Travailler avec la technologie blockchain (noeuds, développement etc..)
+- Suivre des formations Java & Angular
 - Stagiaire en développement de logiciels à Lausanne chez Protocol SA
 - Ajouter les différents projets fait à l'école sur Git
 
