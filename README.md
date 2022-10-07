@@ -17,7 +17,7 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer le monde de la blockch
 - Perfectionner mon anglais
 - Acheter une lambo
 
-### 🏗️ Language & Tools
+### 🏗️ Languages & Tools
 
 - mySQL/T-SQL, PHP, html/css, C, C#, Javascript, JAVA
 - Bootstrap, laravel
