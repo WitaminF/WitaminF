@@ -5,10 +5,10 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer le monde de la blockch
 
 ### 🔭 Ce que je fait actuellement :
 
-- Apprendre Javascript et les frameworks
-- Suivre des formations Java & Angular
-- Stagiaire en développement de logiciels à Lausanne chez Protocol SA
-- Ajouter les différents projets fait à l'école sur Git
+- Apprendre Java & Angular
+- Suivre des formations Udemy (full-stack)
+- Stagiaire en développement Javascript à Lausanne chez Protocol SA
+- Aller plus loin dans mes connaissances dans le dév (Docker, AWS etc..)
 
 ### 🌱 Ce que je souhaite faire :
 
@@ -19,9 +19,9 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer le monde de la blockch
 
 ### 🏗️ Language & Tools
 
-- mySQL, PHP, html/css, C, C#
+- mySQL/T-SQL, PHP, html/css, C, C#, Javascript, JAVA
 - Bootstrap, laravel
-- Git, phpstorm, VSC, geth
+- Git, IntelliJ, VSC, geth, SSMS
 - Adobe : Dreamviewer, InDesign
 - Microsoft Office : Excel, PowerPoint, Word
 
