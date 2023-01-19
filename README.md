@@ -5,7 +5,7 @@ Je suis passioné par le WEB 3.0 et je souhaite intégrer le monde de la blockch
 
 ### 🔭 Ce que je fait actuellement :
 
-- Apprendre Java & Angular
+- Apprendre le dev web et le stack JS
 - Suivre des formations Udemy (full-stack)
 - Stagiaire en développement Javascript à Lausanne chez Protocol SA
 - Aller plus loin dans mes connaissances dans le dév (Docker, AWS etc..)
